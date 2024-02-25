@@ -4,7 +4,7 @@ Requirements:
 
 pip install mysql-connector-python
 
-
+Code:
 
 import mysql.connector
 
